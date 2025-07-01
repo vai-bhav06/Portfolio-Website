@@ -3,8 +3,8 @@
 Welcome to my personal portfolio website! This project showcases who I am, what I do, and some of the best projects I’ve worked on as a frontend developer. It includes smooth animations, responsive layouts, and a clean UI design built using **HTML**, **CSS**, and **JavaScript**.
 
 ### 🔗 Live Demo
-👉 [View Live Website](https://yourusername.github.io/your-repo-name/)  
-👉 [My GitHub](https://github.com/vai-bhav06)
+👉 [View Live Website](https://vai-bhav06.github.io/Portfolio-Website)  
+👉 [My GitHub](https://github.com/vai-bhav06/Portfolio-Website)
 
 ---
 
