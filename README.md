@@ -34,4 +34,4 @@ Welcome to my personal portfolio website! This project showcases who I am, what 
    ```bash
    git clone https://github.com/vai-bhav06/portfolio-website.git
 
-
+![portfolio1 ](https://github.com/user-attachments/assets/4ca8ce84-0bcc-4087-adc9-989f966616eb)
