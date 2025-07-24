@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! This project showcases who I am, what 
 ![portfolio1 ](https://github.com/user-attachments/assets/4ca8ce84-0bcc-4087-adc9-989f966616eb)
 ### 🔗 Live Demo
 👉 [View Live Website](https://vai-bhav06.github.io/Portfolio-Website)  
-👉 [My GitHub](https://github.com/vai-bhav06/Portfolio-Website)
+
 
 ---
 
